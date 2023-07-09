@@ -8,10 +8,9 @@ I am a skilled Full-stack Software Engineer with a unique set of talents in Mark
 ⚡️ A quick introduction
 
 - 🔭 I’m currently working on my personal projects!
-- 🌱 I’m currently learning Node.Js and MongoDB
+- 🌱 I’m currently learning Three.js.
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I enjoy going to the gym regularly, taking my dog on walks, drinking coffee, and playing video games. I am also currently learning how to play chess.
-- 😝 Fun-Fact: When I was younger, I aspired to become a professional wrestler, largely because I was a huge fan of Trish Stratus, whose name is similar to mine.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 🤝🏻 Connect, Follow, Subscribe
