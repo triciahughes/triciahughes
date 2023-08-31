@@ -8,9 +8,9 @@ I am a skilled Full-stack Software Engineer with a unique set of talents in Mark
 ⚡️ A quick introduction
 
 - 🔭 I’m currently working on my personal projects!
-- 🌱 I’m currently learning Three.js.
+- 🌱 I’m currently learning Three.js / Next.js / d3.
 - 💼 I'm open to freelancing projects.
-- 🤟🏻 I enjoy going to the gym regularly, taking my dog on walks, drinking coffee, and playing video games. I am also currently learning how to play chess.
+- 🤟🏻 I enjoy going to hot yoga, coding meetups, taking my dog on walks, drinking coffee, and playing video games. I am also currently learning how to play chess.
 
 ---------------------------------------------------------------------------------------------------------------------------------
 🤝🏻 Connect, Follow, Subscribe
