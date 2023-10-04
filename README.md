@@ -34,6 +34,13 @@ I am a skilled Full-stack Software Engineer with a unique set of talents in Mark
 <img style="padding:5px;" align="center" alt="Mongoose" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongoose/mongoose.png"/>
 <img style="padding:5px;" align="center" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"/>
 <img style="padding:5px;" align="center" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"/>
+<img style="padding:5px;" align="center" alt="NextJs" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
+<img style="padding:5px;" align="center" alt="SQLAlchemy" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg"/>
+<img style="padding:5px;" align="center" alt="SQLite" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"/>
+<img style="padding:5px;" align="center" alt="TailwindCSS" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
+<img style="padding:5px;" align="center" alt="ThreeJs" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"/>
+<img style="padding:5px;" align="center" alt="ThreeJs" width="35px" src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"/>
+  
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------
