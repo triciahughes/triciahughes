@@ -7,8 +7,7 @@ I am a skilled Full-stack Software Engineer with a unique set of talents in Mark
 ---------------------------------------------------------------------------------------------------------------------------------
 ⚡️ A quick introduction
 
-- 🔭 I’m currently working on my personal projects!
-- 🌱 I’m currently working on [Book-Brain](https://github.com/triciahughes/book-brain)! Book-Brain allows users to manage, create, and participate in virtual book clubs. It utilizes OpenAI's API to help book club hosts (organizers) create engaging discussion prompts for the featured book with a click of a button. In the near future, it will also help suggest the next book based on previously read books. This application is built using Next.js 13 and Prisma!
+- 🔭 I’m currently working on [Book-Brain](https://github.com/triciahughes/book-brain)! Book-Brain allows users to manage, create, and participate in virtual book clubs. It utilizes OpenAI's API to help book club hosts (organizers) create engaging discussion prompts for the featured book with a click of a button. In the near future, it will also help suggest the next book based on previously read books. This application is built using Next.js 13 and Prisma!
 - 💼 I'm open to freelancing projects.
 - 🤟🏻 I enjoy going to hot yoga, coding meetups, taking my dog on walks, drinking coffee, and playing video games. I am also currently learning how to play chess.
 
