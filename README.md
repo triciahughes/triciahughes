@@ -16,7 +16,7 @@ I am a skilled Full-stack Software Engineer with a unique set of talents in Mark
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tricia-hughes/)
 [![Medium](https://img.shields.io/badge/Medium-1C1B1B?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@triciahughes)
-[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hey@tricia-hughes.com?subject=Hey%20Tricia!)
+[![Gmail](https://img.shields.io/badge/Gmail-729C68?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hughes.a.tricia@gmail.com?subject=Hey%20Tricia!)
 
 ---------------------------------------------------------------------------------------------------------------------------------
 💻 Languages, Frameworks, Tools
